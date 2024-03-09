@@ -3,8 +3,9 @@
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=415 src="https://github.com/cabernet-code/blog/assets/357114/c6b67251-a4cb-4ead-8de1-8a9a7001566f">
   </p>
 
-
-# 🇧🇷 Bem-vindo ao "The Cabernet Code"!
+<p align="center">
+  <strong>🇧🇷 <br/> BEM-VINDO AO "THE CABERNET CODE"</strong>
+</p>
 
 Neste espaço único, mergulharemos juntos nas profundezas da tecnologia e programação de software, guiados pelo encanto de uma loja de vinhos fictícia. Aqui, a complexidade do código se entrelaça com a sutileza dos vinhos finos, criando uma experiência de aprendizado e descoberta sem igual.
 
@@ -15,15 +16,18 @@ Prepare sua taça e afie seu intelecto. Estamos prestes a decifrar os códigos q
 Seja bem-vindo à comunidade de aficionados por tecnologia e vinhos. Sua presença enriquece nossa conversa, e ansiamos por compartilhar insights, desafios e, claro, algumas recomendações de vinhos pelo caminho.
 
 Saúde ao código,  
-**Yan Justino**
+### Yan Justino
 
  <p align="center">
-   <img width="30" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/a59d797b-2651-4baa-9cf9-59b11975aeb3">
+   <img width="100" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/71889edc-2544-49af-9b2d-adc7790c7000">
    <br/>
    <br/>
  </p>
 
-# 🇺🇸 Welcome to "The Cabernet Code"!
+ <p align="center">
+  <strong>🇺🇸 <br/> WELCOME THO "THE CABERNET CODE"</strong>
+</p>
+
 
 In this unique space, we will dive together into the depths of technology and software programming, guided by the allure of a fictional wine store. Here, the complexity of code intertwines with the subtlety of fine wines, creating an unparalleled learning and discovery experience.
 
@@ -34,4 +38,4 @@ Prepare your glass and sharpen your intellect. We're about to decode the scripts
 Welcome to a community of technology and wine aficionados. Your presence enriches our conversation, and we look forward to sharing insights, challenges, and, of course, some wine recommendations along the way.
 
 Cheers to code,  
-**Yan Justino**
+### Yan Justino
