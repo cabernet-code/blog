@@ -1,3 +1,18 @@
+<p align=center>
+<img width="20" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/e8fbe5b1-61d8-4ef6-9268-8d587da82818">
+ <img width="50" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/75a6bad1-5dcc-404d-a9b7-a47ce04faa77">
+
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cabernet-code/blog/assets/357114/75a6bad1-5dcc-404d-a9b7-a47ce04faa77" >
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cabernet-code/blog/assets/357114/e8fbe5b1-61d8-4ef6-9268-8d587da82818">
+  <p align="center">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=315 src="https://github.com/cabernet-code/blog/assets/357114/ed0a287b-045d-49bf-a147-506c9e7afe3b">
+  </p>
+</picture>
+
+
 # Do Conceito à Codificação: Transformando Regras de Negócio em Códigos Confiáveis
 
 
