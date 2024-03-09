@@ -40,7 +40,7 @@ No intuito de aproximar a linguagem de negócio ao design de software, Eric Evan
 
 No entanto, a compreensão do que venha ser um modelo rico é muito abstrata e pode ser repleta de equívocos. Um deles é pensar que um modelo rico se resume a uma espécie de contraste à modelos anêmicos (classes desprovidas de comportamento). Uma das consequências dessa visão restrita, é a construção de entidades excessivamente ricas em comportamentos.
 
-> [!IMPORTANT]
+> [!CAUTION]
 >>_Pessoas novas no DDD tendem a modelar muitos comportamentos. Eles inocentemente acreditam na falácia de que o DDD trata 
 de modelar o mundo real. Posteriormente, eles tentam modelar muitos comportamentos do mundo real de uma entidade._ **-Scott Millett e Nick Tune** [^2]
 
@@ -501,6 +501,7 @@ Um último aspecto que precisa ser discutido é a organização da estrutura de 
 Em nosso exemplo, implementamos dois tipos de padrão de motor: de **Eligibility Pattern** e **Eligibility Pattern**. Tomando como referência o conceito de _Business Rule Management System (BRMS)_ apresentado no post de [Amit Tlekar](https://blogs.perficient.com/2017/09/17/10-business-rule-patterns-in-the-digital-transformation-and-cognitive-era/). Nele é apresentado outros padrões de motores de regas como _Validation Pattern, Authority and Approval Pattern, Legacy Rules Extraction,Scoring & Selection Pattern, Unstructured Big data pattern, Events pattern_ etc. A **Figura 2** ilustra a organização da final da solução.
 
 ![image](https://github.com/cabernet-code/blog/assets/357114/44846f15-9754-453c-bc10-cebcd64907ab)
+
 <sup>**Figura 2.** estrutura de solução<sup>
 
 ## Conclusão
