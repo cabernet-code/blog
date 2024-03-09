@@ -1,13 +1,7 @@
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cabernet-code/blog/assets/357114/74421f35-b5b1-42fe-8803-6e75e37f669c" >
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cabernet-code/blog/assets/357114/ed0a287b-045d-49bf-a147-506c9e7afe3b">
   <p align="center">
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=315 src="https://github.com/cabernet-code/blog/assets/357114/ed0a287b-045d-49bf-a147-506c9e7afe3b">
-    <br/>
-    <br/>
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=415 src="https://github.com/cabernet-code/blog/assets/357114/c6b67251-a4cb-4ead-8de1-8a9a7001566f">
   </p>
-</picture>
 
 
 # 🇧🇷 Bem-vindo ao "The Cabernet Code"!
@@ -24,7 +18,7 @@ Saúde ao código,
 **Yan Justino**
 
  <p align="center">
-   <img width="100" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/8845cd8c-df60-4bd7-b058-7188902091a1">
+   <img width="30" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/a59d797b-2651-4baa-9cf9-59b11975aeb3">
    <br/>
    <br/>
  </p>
