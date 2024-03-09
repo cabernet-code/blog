@@ -1,13 +1,14 @@
 
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cabernet-code/blog/assets/357114/0ad71bba-39ea-4aa4-a2eb-5de1ff8d38ab" >
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cabernet-code/blog/assets/357114/0ad71bba-39ea-4aa4-a2eb-5de1ff8d38ab">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cabernet-code/blog/assets/357114/74421f35-b5b1-42fe-8803-6e75e37f669c" >
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cabernet-code/blog/assets/357114/ed0a287b-045d-49bf-a147-506c9e7afe3b">
   <p align="center">
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=315 src="https://github.com/cabernet-code/blog/assets/357114/0ad71bba-39ea-4aa4-a2eb-5de1ff8d38ab">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=315 src="https://github.com/cabernet-code/blog/assets/357114/ed0a287b-045d-49bf-a147-506c9e7afe3b">
+    <br/>
+    <br/>
   </p>
 </picture>
+
 
 # 🇧🇷 Bem-vindo ao "The Cabernet Code"!
 
@@ -19,9 +20,14 @@ Prepare sua taça e afie seu intelecto. Estamos prestes a decifrar os códigos q
 
 Seja bem-vindo à comunidade de aficionados por tecnologia e vinhos. Sua presença enriquece nossa conversa, e ansiamos por compartilhar insights, desafios e, claro, algumas recomendações de vinhos pelo caminho.
 
-Saúde ao código,
+Saúde ao código,  
 **Yan Justino**
 
+ <p align="center">
+    <img width="50" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/d8a71ff8-bc77-4747-b17c-abb2afb08d6e">
+   <br/>
+   <br/>
+ </p>
 
 # 🇺🇸 Welcome to "The Cabernet Code"!
 
