@@ -24,7 +24,7 @@ Saúde ao código,
 **Yan Justino**
 
  <p align="center">
-    <img width="50" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/d8a71ff8-bc77-4747-b17c-abb2afb08d6e">
+   <img width="100" alt="image" src="https://github.com/cabernet-code/blog/assets/357114/8845cd8c-df60-4bd7-b058-7188902091a1">
    <br/>
    <br/>
  </p>
