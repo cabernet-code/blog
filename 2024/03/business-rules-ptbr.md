@@ -1,9 +1,4 @@
 
-![image](https://github.com/cabernet-code/blog/assets/357114/a97fc5cb-c98c-4027-b7f1-1bcd6a3b9917)
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cabernet-code/blog/assets/357114/75a6bad1-5dcc-404d-a9b7-a47ce04faa77" >
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/cabernet-code/blog/assets/357114/e8fbe5b1-61d8-4ef6-9268-8d587da82818">
