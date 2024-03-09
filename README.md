@@ -1,7 +1,5 @@
+  ![iMac - 2](https://github.com/cabernet-code/blog/assets/357114/b7e8915d-5714-4ca6-a681-e64cc3c3061a)
 
-  <p align="center">
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=415 src="https://github.com/cabernet-code/blog/assets/357114/c6b67251-a4cb-4ead-8de1-8a9a7001566f">
-  </p>
 
 <p align="center">
   <strong>🇧🇷 <br/> BEM-VINDO AO "THE CABERNET CODE"</strong>
